@@ -1,6 +1,6 @@
 # Sentiment Analysis of 2024 Uber Customer Reviews
 
-This project performs sentiment analysis on Uber customer reviews from 2024 using advanced Natural Language Processing (NLP) techniques and state-of-the-art deep learning models, I analyze customer feedback to gauge satisfaction levels, identify SHORTCOMINGS , and derive actionable insights.
+This project performs sentiment analysis on Uber customer reviews from 2024 using advanced Natural Language Processing (NLP) techniques and state-of-the-art deep learning models, I analyze customer feedback to gauge satisfaction levels, and derive actionable insights.
 
 
 ## Project Overview
@@ -41,12 +41,3 @@ I experimented with the following models:
 3. **BiLSTM (Bidirectional Long Short-Term Memory):**
    - Processes text in both directions to understand mixed sentiments.
    - Offers strong performance but has higher computational requirements.
-
-## Recommendations
-Based on the analysis, I suggest the following improvements:
-- **Reduce Wait Times:** Optimize routing algorithms and driver availability.
-- **Enhance Driver Training:** Invest in customer service training and implement rating-based incentives.
-- **Improve Vehicle Quality:** Enforce stricter vehicle inspection policies.
-- **Billing Transparency:** Audit pricing algorithms and establish user-friendly dispute resolutions.
-- **Address Location Accuracy:** Improve GPS precision and introduce user-confirmation for pick-up locations.
-- **Minimize Driver Cancellations:** Implement stricter cancellation policies and update matching algorithms.
