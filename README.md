@@ -2,8 +2,7 @@
 
 This project performs sentiment analysis on Uber customer reviews from 2024 using advanced Natural Language Processing (NLP) techniques and state-of-the-art deep learning models, I analyze customer feedback to gauge satisfaction levels, and derive actionable insights.
 
-![Uploading Screenshot from 2025-08-05 12-09-57.png…]()
-
+<img width="1813" height="920" alt="Screenshot from 2025-08-05 12-09-57" src="https://github.com/user-attachments/assets/958d207d-d212-4bcb-b540-ac239e462ad5" />
 
 
 ## Project Overview
